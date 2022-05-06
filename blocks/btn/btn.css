@@ -4,6 +4,14 @@
   background-color: beige;
   padding: 10px;
   border-radius: 0 5px 5px 0;
+  border: 2px solid beige;
+  border-left: 0;
   outline: none;
   color: #6082a3;
+  transition: .2s linear;
+}
+
+.btn:hover {
+  color: #fff;
+  background-color: inherit;
 }

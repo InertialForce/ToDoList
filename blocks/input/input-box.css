@@ -1,5 +1,5 @@
 .input-box {
+  width: 450px;
   display: flex;
-  justify-content: center;
-  margin-top: 50px;
+  margin: 50px auto 25px;
 }
