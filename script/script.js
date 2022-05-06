@@ -13,7 +13,7 @@ function createBox() {
     const noteBox = document.createElement('li');
     noteBox.className = 'note-box'
     note.textContent = input.value;
-    // btnClose.textContent = 'x';
+    btnClose.textContent = 'x';
     containerNote.appendChild(noteBox);
     noteBox.appendChild(note);
     noteBox.appendChild(btnClose);
