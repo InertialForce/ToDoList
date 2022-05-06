@@ -1,0 +1,12 @@
+.note-box {
+  width: 220px;
+  position: relative;
+  margin: 0 25px 10px 0;
+  border: 2px solid beige;
+  border-radius: 5px;
+  list-style: none;
+}
+
+.note-box:nth-of-type(5n) {
+  margin-right: 0;
+}

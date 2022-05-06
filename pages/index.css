@@ -1,0 +1,23 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts.css);
+
+/* page */
+@import url(../blocks/page/page.css);
+
+/* title */
+@import url(../blocks/title/title.css);
+
+/* input */
+@import url(../blocks/input/input-box.css);
+@import url(../blocks/input/input.css);
+
+/* btn */
+@import url(../blocks/btn/btn.css);
+@import url(../blocks/btn/btn-close.css);
+
+/* container-note */
+@import url(../blocks/container/container-note.css);
+
+/* note */
+@import url(../blocks/note/note-box.css);
+@import url(../blocks/note/note.css);
