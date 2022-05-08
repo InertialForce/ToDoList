@@ -9,6 +9,7 @@
   outline: none;
   color: #6082a3;
   transition: .2s linear;
+  font-size: 18px;
 }
 
 .btn:hover {
